@@ -1,6 +1,6 @@
 {
   "name": "get-domain-url",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Transform custom string to domain url (validate possible domain by duck-style)",
   "main": "index.js",
   "scripts": {
