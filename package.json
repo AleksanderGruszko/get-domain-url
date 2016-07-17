@@ -1,0 +1,33 @@
+{
+  "name": "get-domain-url",
+  "version": "0.0.1",
+  "description": "Transform custom string to domain url (validate possible domain by duck-style)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "lint": "eslint ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksanderGruszko/get-domain-url.git"
+  },
+  "keywords": [
+    "domain",
+    "url",
+    "string",
+    "get",
+    "domain",
+    "from",
+    "string"
+  ],
+  "author": "Aleksander Gruszko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksanderGruszko/get-domain-url/issues"
+  },
+  "homepage": "https://github.com/AleksanderGruszko/get-domain-url#readme",
+  "devDependencies": {
+    "eslint": "^3.1.0",
+    "jasmine": "^2.4.1"
+  }
+}
