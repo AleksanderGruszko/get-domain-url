@@ -8,7 +8,7 @@
 
     const getDomainUrl = require('get-domain-url');
 
-    let correctDomainLink = getDomain('domain.com', 'https'); // 'https://domain.com'
+    let correctDomainLink = getDomainUrl('domain.com', 'https'); // 'https://domain.com'
 
 This function expect two parameters
 
