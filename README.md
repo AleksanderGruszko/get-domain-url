@@ -53,4 +53,4 @@ I create this package only for training and never will support it in the future.
 Better use this package:
 https://www.npmjs.com/package/tldjs
 
-Unfortunately for me, i didn't found it before;
+Unfortunately for me, i didn't found it before.
